@@ -1,0 +1,34 @@
+body {
+	min-width: 300px;
+    background-color: beige;
+}
+
+img {
+    width: 10%;
+    margin: 0 auto;
+    width: 30x;
+    margin-bottom: 90px;
+    padding:30px;
+    border : solid 0px;
+
+}
+.icon {
+    vertical-align: middle;
+ }
+.button {
+    display: block;
+    width: 286px;
+    height: 52px;
+    padding: 7px;
+    margin: 0 auto; /* 中央寄せになります。 */
+    text-align: center;
+    color: #666;
+    line-height: 36px;
+    text-decoration: none;
+    background-color: #efefef;
+    border: 5px solid #FFC433;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+    

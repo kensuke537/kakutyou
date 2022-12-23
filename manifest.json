@@ -1,0 +1,16 @@
+
+{
+	"name": "N/S高新聞実行委員",
+	"manifest_version": 3,
+	"version": "5.0",
+	"action": {
+		"default_icon": {
+            "16": "images/esnue.png",
+			"24": "images/esnue.png",
+			"32": "images/esnue.png"
+		},
+        
+        "matches": ["https://www.google.co.jp/*"],
+		"default_popup": "popup.html"
+	}
+}
